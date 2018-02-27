@@ -2690,7 +2690,7 @@ def bot(op):
                     else:
                         cl.sendText(msg.to,"Not for use less than group")
 
-            elif msg.text in ["All join","Join all"]:
+            elif msg.text in ["All join","Join all","Bot in"]:
 		if msg.from_ in admin:
 		    G = cl.getGroup(msg.to)
                     ginfo = cl.getGroup(msg.to)
@@ -2778,7 +2778,7 @@ def bot(op):
 		except Exception as E:
 		    print E
 
-            elif msg.text in ["Bye all"]:
+            elif msg.text in ["Bye all","Bot bye"]:
               if wait["Leave"] == True:		    
                     ki.leaveGroup(msg.to)
                     kk.leaveGroup(msg.to)
