@@ -10,32 +10,32 @@ from gtts import gTTS
 import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,os,subprocess,requests,tempfile
 
 cl = LINETCR.LINE()
-cl.loginl(token='Eo7g96rbMbvb7BjmfXjb.Fg2xAK8+c6My92znQ5+akW.YgQIfxRDJOMLfNJ8XXzt+ejv3JKHYtrj6qeSCHiFEvo=')
+cl.loginl(token='MAN')
 cl.loginResult()
 print "Cl-Login Success\n"
 
 ki = LINETCR.LINE()
-ki.login(token='EoFKkRZHMzkjnmxH6CW8.tSL6Ni+BpiVGFpzQ9Gu22a.03eOZYJE7pQcwY5/v4oqO9qKk5oiItbY6nA4dsrxUcE=')
+ki.login(token='B1')
 ki.loginResult()
 print "Ki-Login Success\n"
 
 kk = LINETCR.LINE()
-kk.login(token='EoVpDTK4IHREsY5aibdf.TZjEI917pMDTTp1BY9K5+W.Bp0eLCvk/7LpSOWlWiLIB2yzEbNyGtjrO6kgisalTCc=') 
+kk.login(token='B2') 
 kk.loginResult() 
 print "Kk-Login Success\n"
 
 kc = LINETCR.LINE()
-kc.login(token='EogqBeQmHyaEe59tKfr6.xuC8K6+gzJsmen91eTrSPG.mJ908lkjCpleA0VRibcXpBnSQ1XmCA0OCXYEOUOuEvU=')
+kc.login(token='B3')
 kc.loginResult()
 print "Kc-Login Success\n"
 
 kr = LINETCR.LINE()
-kr.login(token='Eo1I13aDxJWWSYKOrxb4.CKP6GP5GmFyfYuKxouLRXa.oKaq6+fwtvrdKoliN6sVThoW6H8OMF6HoQJV9gOZUg0=')
+kr.login(token='B4')
 kr.loginResult()
 print "Kr-Login Success\n"
 
 km = LINETCR.LINE()
-km.login(token='Eo1vKkr98duIL5Myg9Db.F3dwbSK4u10C9ILUzTcpQW.GQuFHyYMKkwMF/7SjIJ6/toQTXVriee7J4FgTgAWn6g=') 
+km.login(token='B5') 
 km.loginResult()
 print "Km-Login Success\n\n=====[Sukses Login Semua WIB]====="
 
@@ -68,13 +68,13 @@ selfMessage ="""
  [▪] Getvid @
  [▪] Friendlist
 
-         By : SELFBOT MAN-PC
+     By : SELFBOT MAN-PC
 
 """
 
 botMessage ="""
 
-      ☆ HELP : BOT-KICKER ☆
+      ☆ HELP-BOT-KICKER ☆
 
  [▪] Absen
  [▪] Respon
