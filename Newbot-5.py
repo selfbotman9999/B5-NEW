@@ -44,7 +44,7 @@ sys.setdefaultencoding('utf-8')
 
 selfMessage ="""
 
-       ☆ 🆂🅴🅻🅵 ☆
+     ☆ SELFBOT MAN PROTECT ☆
        
  [▪] Hi
  [▪] Me
@@ -68,13 +68,13 @@ selfMessage ="""
  [▪] Getvid @
  [▪] Friendlist
 
-         By : W⃟   I⃟   B⃟   ️
+         By : SELFBOT MAN-PC
 
 """
 
 botMessage ="""
 
-           ☆ 🅱🅾🆃 ☆
+      ☆ HELP : BOT-KICKER ☆
 
  [▪] Absen
  [▪] Respon
@@ -87,23 +87,23 @@ botMessage ="""
  [▪] Backup all
  [▪] Bio Text
  [▪] @bye (Usir Oswib)
- [▪] Bye all
- [▪] All join
+ [▪] Bye all / Bot bye
+ [▪] All join / Bot in
 
-          By : W⃟   I⃟   B⃟   ️
+     By : SELFBOT MAN PROTECT
 
 """
 
 mediaMessage ="""
 
-            ☆ 🅼🅴🅳🅸🅰 ☆
+    ☆ SELFBOT-MAN-MEDIA ☆
  
  [▪] Gift
  [▪] Gift1 @ s/d Gift10 @
  [▪] Giftbycontact
  [▪] All gift
  [▪] Google: (Text)
- [▪] Playstore NamaApp
+ [▪] Playstore NameApp
  [▪] Fancytext: Text
  [▪] Musik Judul-Penyanyi
  [▪] Lirik Judul-Penyanyi
@@ -128,14 +128,12 @@ mediaMessage ="""
  [▪] Id@en Text
  [▪] Id@th Text
  [▪] En@id Text
-
-          By : W⃟   I⃟   B⃟   ️
-
+ 
+  By : SELFBOT MAN PROTECT
 """
-
 groupMessage ="""
 
-           ☆ 🅶🆁🅾🆄🅿 ☆
+     ☆ SELFBOT-MAN-INFO ☆
 
  [▪] Welcome
  [▪] Say welcome
@@ -161,15 +159,15 @@ groupMessage ="""
  [▪] Memlist
  [▪] Getgroup image
  [▪] Urlgroup Image
-
-          By : W⃟   I⃟   B⃟   ️
-
+ 
+SELFBOT MAN PROTECTION ⤵️
+http://line.me/ti/p/~1ove..neverdie
 """
 WIB="u4a361586c55ac4ef218a0a9b78b2f1b3"
 
 setMessage ="""
 
-              ☆ 🆂🅴🆃 ☆
+     ☆ SELFBOT MAN SETTING ☆
 
  [▪] Sambutan on/off
  [▪] Url on/off
@@ -177,14 +175,11 @@ setMessage ="""
  [▪] Sider on/off
  [▪] Contact on/off
  [▪] Simisimi on/off
-
-          By : W⃟   I⃟   B⃟   
-
 """
 
 creatorMessage ="""
 
-        ☆ 🅲🆁🅴🅰🆃🅾🆁 ☆
+     ☆ SELFBOT MAN CREATOR ☆
 
  [▪] Admin add @
  [▪] Admin remove @
@@ -205,13 +200,13 @@ creatorMessage ="""
  [▪] Wib restart
  [▪] Turn off
 
-          By : W⃟   I⃟   B⃟   ️
-
+SELFBOT MAN PROTECTION ⤵️
+http://line.me/ti/p/~1ove..neverdie
 """
 
 adminMessage ="""
 
-           ☆ 🅰🅳🅼🅸🅽 ☆
+     ☆ SELFBOT MAN ADMIN ☆
 
  [▪] Admin list
  [▪] Allprotect on/off
@@ -246,13 +241,13 @@ adminMessage ="""
  [▪] Responkick on/off
  [▪] Leave on/off
 
-           By : W⃟   I⃟   B⃟   ️
-
+SELFBOT MAN PROTECTION ⤵️
+http://line.me/ti/p/~1ove..neverdie
 """
 
 helpMessage ="""
 
-            ☆ 🅷🅴🅻🅿 ☆
+      ☆ SELFBOT MAN HELP ☆
 
  [▪] Help self
  [▪] Help bot
@@ -268,21 +263,20 @@ helpMessage ="""
  [▪] Speed test
  [▪] Status
 
-          By : W⃟   I⃟   B⃟   
-
+SELFBOT MAN PROTECTION ⤵️
+http://line.me/ti/p/~1ove..neverdie
 """
 
-
-KAC=[cl,ki,kk,kc,kr]
+KAC = [cl,ki,kk,kc,kr]
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 Dmid = kr.getProfile().mid
-Emid = km.getProfile().mid
-Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid]
-Creator=["u4a361586c55ac4ef218a0a9b78b2f1b3","ub2c8650d1af85d5c66d1f8389072e3b2","u4fd239a77c16d1ea7853cd801f6c379d","u99615f517b6ae7fe1712cd5af5839573","u734b3b03b3ce6459fab162958c0024a5"]
-admin=["u4a361586c55ac4ef218a0a9b78b2f1b3","ub7325e8bdd7b3e676db4fd5bcbd939ff","u4fd239a77c16d1ea7853cd801f6c379d","u99615f517b6ae7fe1712cd5af5839573","ud919c919e5d9c5ec30dff0d9bc58dde7","u4ec97a9c8fdb3c8be07cf66af60536d8","u5d473c93afc666348c10df7512d46ca6","u724a7a829e6031f605c9491739496bc4","u7f70d606c938535d1cf6296e66d08fab","u7c6d976a4f3f0ba998f7664dab9fc02b","ua4992b649803f4550c626f1133cd3096","ub2c8650d1af85d5c66d1f8389072e3b2","u734b3b03b3ce6459fab162958c0024a5"]
+#Emid = km.getProfile().mid
+Bots = [mid,Amid,Bmid,Cmid,Dmid]
+Creator = ["ud24af63fd62d14c3bf8f719df80c3745"]
+admin = ["ud24af63fd62d14c3bf8f719df80c3745","1","2","3","4","5"]
 
 contact = cl.getProfile()
 backup1 = cl.getProfile()
@@ -339,11 +333,11 @@ wait = {
     'kickMention':False,      
     'timeline':True,
     "Timeline":True,
-    "comment1":"Kenapa Kak?",
-    "comment2":"Wkwkwk ＼（○＾ω＾○）／",
-    "comment3":"Lucu Banget!!! ヘ(^_^)ヘ",
-    "comment4":"Nice Kak (^_^)",
-    "comment5":"Bot Auto Like ©By : W⃟   I⃟   B⃟   \nContact Me : 👉 line.me/ti/p/~oscwib",    
+    "comment1":"Auto Like By : SELFBOT MAN PROTECT",
+    "comment2":"Auto Like By : SELFBOT MAN PROTECT",
+    "comment3":"Auto Like By : SELFBOT MAN PROTECT",
+    "comment4":"Auto Like By : SELFBOT MAN PROTECT",
+    "comment5":"BOT Auto Like : SELFBOT MAN PROTECTION\nContact Me : 👉 line.me/ti/p/~1ove..neverdie",    
     "commentOn":True,
     "commentBlack":{},
     "message":"Thx For Add Me (^_^)\nInvite Me To Your Group ヘ(^_^)ヘ",    
@@ -1090,7 +1084,7 @@ def bot(op):
             ginfo = cl.getGroup(op.param1)
             contact = cl.getContact(op.param2)
             image = "http://dl.profile.line-cdn.net/" + contact.pictureStatus
-            cl.sendText(op.param1,"Hallo " + cl.getContact(op.param2).displayName + "\nWelcome To  " + str(ginfo.name) + "\nBudayakan Cek Berbaur yaa\nDan Semoga Betah Disini ^_^")
+            cl.sendText(op.param1,"Hello " + cl.getContact(op.param2).displayName + "\nWelcome To..  " + str(ginfo.name) + "\nTHAILAND creator : SELFBOT MAN PROTECT")
             cl.sendImageWithURL(op.param1,image)
             print "MEMBER JOIN TO GROUP"
 
@@ -1098,7 +1092,7 @@ def bot(op):
           if wait["Sambutan"] == True:
             if op.param2 in admin:
                 return
-            cl.sendText(op.param1,"Good Bye " + cl.getContact(op.param2).displayName +  "\nSee You Next Again . . . (p′︵‵。) 🤗")
+            cl.sendText(op.param1,"Good Bye.. " + cl.getContact(op.param2).displayName +  "\nSee You Again . . . (p′︵‵。)")
             random.choice(KAC).inviteIntoGroup(op.param1,[op.param2])
             print "MEMBER HAS LEFT THE GROUP"
 
@@ -1250,8 +1244,7 @@ def bot(op):
                         random.choice(KAC).sendText(msg.to,"Tidak Ada Black List")
             
                     
- 
-                elif wait["Contact"] == True:
+                 elif wait["Contact"] == True:
                      msg.contentType = 0
                      cl.sendText(msg.to,msg.contentMetadata["mid"])
                      if 'displayName' in msg.contentMetadata:
@@ -1309,9 +1302,9 @@ def bot(op):
 		
             elif msg.text in ["Admin","admin"]:
                 msg.contentType = 13
-                admin1 = "u99615f517b6ae7fe1712cd5af5839573"
-                admin2 = "u4fd239a77c16d1ea7853cd801f6c379d"
-                admin3 = "ud919c919e5d9c5ec30dff0d9bc58dde7"
+                admin1 = "ud24af63fd62d14c3bf8f719df80c3745"
+                admin2 = "ud24af63fd62d14c3bf8f719df80c3745"
+                admin3 = "ud24af63fd62d14c3bf8f719df80c3745"
                 msg.contentMetadata = {'mid': WIB}
                 random.choice(KAC).sendMessage(msg)
                 msg.contentMetadata = {'mid': admin1}
@@ -1320,7 +1313,7 @@ def bot(op):
                 random.choice(KAC).sendMessage(msg)
                 msg.contentMetadata = {'mid': admin3}
                 random.choice(KAC).sendMessage(msg)                
-		random.choice(KAC).sendText(msg.to,"Itu Admin W⃟   I⃟   B⃟     😎😎")	
+		random.choice(KAC).sendText(msg.to,"Admin bot 😎😎")	
 		
  
                 
@@ -1385,14 +1378,12 @@ def bot(op):
                   cl.sendText(msg.to,"The Admin List Is Empty")
               else:
                   cl.sendText(msg.to,"Tunggu...")
-                  mc = "╔═════════════════════════\n║        ☆☞ ADMIN W⃟   I⃟   B⃟    ☜☆\n╠═════════════════════════\n"
+                  mc = "╔═════════════════════════\n║        ☆☞ ADMIN SELFBOT MAN ☜☆\n╠═════════════════════════\n"
                   for mi_d in admin:
                       mc += "╠••> " +cl.getContact(mi_d).displayName + "\n"
                   cl.sendText(msg.to,mc + "╚═════════════════════════")
                   print "[Command]Admin List executed"
-                 
-
- 
+                
 
 	    elif msg.text in ["Group creator","Gcreator","gcreator"]:
 		ginfo = cl.getGroup(msg.to)
@@ -1400,16 +1391,13 @@ def bot(op):
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': gCreator}
                 cl.sendMessage(msg)
-		cl.sendText(msg.to,"Itu Yang Buat Grup Ini")
- 
-
-                
+		cl.sendText(msg.to,"ไอหน้าจืดนี่ใง🔝ผู้สร้างกลุ่ม")
+                 
             elif msg.contentType == 16:
                 if wait["Timeline"] == True:
                     msg.contentType = 0
-                    msg.text = "post URL\n" + msg.contentMetadata["postEndUrl"]
+                    msg.text = "POST URL\n" + msg.contentMetadata["postEndUrl"]
                     random.choice(KAC).sendText(msg.to,msg.text)
-
             
             if msg.contentType == 13:
                 if wait["steal"] == True:
@@ -1860,7 +1848,7 @@ def bot(op):
                     wait["Ghost"] = True                     
                     cl.sendText(msg.to,"All Protect Sudah Aktif Semua")
 		else:
-		    cl.sendText(msg.to,"Khusus W⃟   I⃟   B⃟   ")
+		    cl.sendText(msg.to,"•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•")
 
             elif msg.text in ["Allprotect off"]:
 		if msg.from_ in admin:
@@ -1871,7 +1859,7 @@ def bot(op):
                     wait["Ghost"] = False                    
                     cl.sendText(msg.to,"All Protect Sudah Di Nonaktifkan Semua")
 		else:
-		    cl.sendText(msg.to,"Khusus W⃟   I⃟   B⃟   ")
+		    cl.sendText(msg.to,"•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•")
 
 
             elif msg.text in ["K on","Contact on"]:
@@ -1933,8 +1921,8 @@ def bot(op):
                     cl.sendText(msg.to, "Heh Belom Di Set")                         
 
 
-            elif msg.text in ["Status"]:
-                md = ""
+            elif msg.text in ["Status","Set"]:
+                md = "•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•"
 		if wait["Sambutan"] == True: md+="╠➩✔️ Sambutan : On\n"
 		else:md+="╠➩❌ Sambutan : Off\n"
 		if wait["AutoJoin"] == True: md+="╠➩✔️ Auto Join : On\n"
@@ -2477,7 +2465,7 @@ def bot(op):
         
 
 
-            elif msg.text in ["Tagall","Ats"]:
+            elif msg.text in ["Tagall","Tag","Mention"]:
                   group = cl.getGroup(msg.to)
                   nama = [contact.mid for contact in group.members]
 
@@ -2505,12 +2493,12 @@ def bot(op):
                       print error
 
 
-            elif msg.text in ["Setview","Setpoint","Cctv"]:
+            elif msg.text in ["Setview","Setpoint","แอบ"]:
                 subprocess.Popen("echo '' > dataSeen/"+msg.to+".txt", shell=True, stdout=subprocess.PIPE)
                 cl.sendText(msg.to, "☆Checkpoint Checked☆")
                 print "Setview"
 
-            elif msg.text in ["Viewseen","Check","Ciduk","Cyduk"]:
+            elif msg.text in ["Viewseen","Check","Ciduk","อ่าน"]:
 	        lurkGroup = ""
 	        dataResult, timeSeen, contacts, userList, timelist, recheckData = [], [], [], [], [], []
                 with open('dataSeen/'+msg.to+'.txt','r') as rr:
@@ -2572,36 +2560,32 @@ def bot(op):
 		    cl.findAndAddContactsByMids(mi_d)
 		    cl.sendText(msg.to,"Success Add all")
 
-
             elif msg.text in ["Invite"]:
                 wait["invite"] = True
                 cl.sendText(msg.to,"Send Contact")
-                
-                
 
+            elif msg.text in ["เชิญ"]:
+                wait["invite"] = True
+                cl.sendText(msg.to,"↪️ส่งข้อมูลไลน์↩️")
+                
             elif msg.text in ["Auto like"]:
                 wait["likeOn"] = True
-                cl.sendText(msg.to,"Shere Post Kamu Yang Mau Di Like!")                
-
+                cl.sendText(msg.to,"Shere Post Like!")                
 
             elif msg.text in ["Steal contact"]:
                 wait["steal"] = True
                 cl.sendText(msg.to,"Send Contact")
                 
-
             elif msg.text in ["Giftbycontact"]:
                 wait["gift"] = True
                 cl.sendText(msg.to,"Send Contact") 
                 
-
 	    elif "Recover" in msg.text:
 		thisgroup = cl.getGroups([msg.to])
 		Mids = [contact.mid for contact in thisgroup[0].members]
 		mi_d = Mids[:33]
 		cl.createGroup("Recover", mi_d)
 		cl.sendText(msg.to,"Success recover")
-
-
 
             elif ("Gn: " in msg.text):
                 if msg.toType == 2:
@@ -2629,7 +2613,11 @@ def bot(op):
                 random.choice(KAC).inviteIntoGroup(msg.to,[midd])
 
             elif "Invite creator" in msg.text:
-                midd = "u4a361586c55ac4ef218a0a9b78b2f1b3"
+                midd = "ud24af63fd62d14c3bf8f719df80c3745"
+                random.choice(KAC).inviteIntoGroup(msg.to,[midd])
+		
+            elif "เชิญผู้สร้างบอท" in msg.text:
+                midd = "ud24af63fd62d14c3bf8f719df80c3745"
                 random.choice(KAC).inviteIntoGroup(msg.to,[midd])
 
             elif msg.text in ["Welcome","welcome","Welkam","welkam","Wc","wc"]:
@@ -2647,7 +2635,7 @@ def bot(op):
 		gid = cl.getGroupIdsJoined()
 		if msg.from_ in Creator:
 		    for i in gid:
-			cl.sendText(i,"=======[BROADCAST]=======\n\n"+bc+"\n\nContact Me : line.me/ti/p/~nad_nad.")
+			cl.sendText(i,"=======[BROADCAST]=======\n\n"+bc+"\n\nContact Me : line.me/ti/p/~1ove..neverdie")
 		    cl.sendText(msg.to,"Success BC BosQ")
 		else:
 		    cl.sendText(msg.to,"Khusus Admin")
