@@ -25,7 +25,7 @@ SELFBOT  MAN  PROTECTION
 - Cloud9 -> `sudo pip install goslate`
 - Cloud9 -> `sudo pip install BeautifulSoup`
 - Cloud9 -> `sudo pip install pyowm`
-git clone https://github.com/Selfbotman/Man-18-12-5
+- Cloud9 ->  git clone https://github.com/Selfbotman/Man-18-12-5
 
 BOT PROTECT
 -----------
@@ -35,17 +35,17 @@ GET TOKEN :
 -  token generator http://101.255.95.249:6969/
 
 Install Bot (C9)  SELFBOTMAN
-- c9 -> `sudo apt-get update`
-- c9 -> `sudo apt-get install git`
-- c9 -> `sudo apt-get install python-sofware-properties`
-- c9 -> `sudo pip install rsa`
-- c9 -> `sudo pip install thrift==0.9.3`
-- c9 -> `sudo pip install requests`
-- c9 -> `sudo pip install requests==2.5.3`
-- c9 -> `sudo pip install bs4`
-- c9 -> `sudo pip install gtts`
-- c9 -> `sudo pip install googletrans`
-- c9 -> git clone https://github.com/selfbotman9999/B5-NEW
+- C9 -> `sudo apt-get update`
+- C9 -> `sudo apt-get install git`
+- C9 -> `sudo apt-get install python-sofware-properties`
+- C9 -> `sudo pip install rsa`
+- C9 -> `sudo pip install thrift==0.9.3`
+- C9 -> `sudo pip install requests`
+- C9 -> `sudo pip install requests==2.5.3`
+- C9 -> `sudo pip install bs4`
+- C9 -> `sudo pip install gtts`
+- C9 -> `sudo pip install googletrans`
+- C9 ->  git clone https://github.com/selfbotman9999/B5-NEW
 
 -----------------------------------------------------------
 Install Bot  (TERMUX)  SELFBOTMAN
@@ -58,7 +58,7 @@ Install Bot  (TERMUX)  SELFBOTMAN
 - Termux -> `pip2 install bs4`
 - Termux -> `pip2 install gtts`
 - Termux -> `pip2 install googletrans`
-- Termux -> git clone https://github.com/selfbotman9999/B5-NEW
+- Termux ->  git clone https://github.com/selfbotman9999/B5-NEW
 ---------------------------------------------------------------
 cd B5-NEW
 Termux : nano B5-new.py
