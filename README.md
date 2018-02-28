@@ -1,30 +1,30 @@
 SELFBOT  MAN  PROTECTION
 -----------------------
 
-•- Cloud9 -> `sudo apt-get update`
-•- Cloud9 -> `sudo apt-get upgrade`
-•- Cloud9 -> `sudo apt install python-pip`
-•- Cloud9 -> `sudo apt-get install python-software-properties`
-•- Cloud9 -> `sudo pip install thrift==0.9.3`
-•- Cloud9 -> `sudo pip install rsa`
-•- Cloud9 -> `sudo pip install requests`
-•- Cloud9 -> `sudo pip install wikipedia`
-•- Cloud9 -> `sudo pip install beautifulsoup4`
-•- Cloud9 -> `sudo pip install datetime`
-•- Cloud9 -> `sudo pip install html5lib`
-•- Cloud9 -> `sudo pip install curve`
-•- Cloud9 -> `sudo pip install urllib3`
-•- Cloud9 -> `sudo pip install gTTS`
-•- Cloud9 -> `sudo pip install googletrans`
-•- Cloud9 -> `sudo pip install beautifulsoup4`
-•- Cloud9 -> `sudo pip install datetime`
-•- Cloud9 -> `sudo pip install html5lib`
-•- Cloud9 -> `sudo pip install curve`
-•- Cloud9 -> `sudo pip install Celery`
-•- Cloud9 -> `sudo pip install urllib3`
-•- Cloud9 -> `sudo pip install goslate`
-•- Cloud9 -> `sudo pip install BeautifulSoup`
-•- Cloud9 -> `sudo pip install pyowm`
+- Cloud9 -> `sudo apt-get update`
+- Cloud9 -> `sudo apt-get upgrade`
+- Cloud9 -> `sudo apt install python-pip`
+- Cloud9 -> `sudo apt-get install python-software-properties`
+- Cloud9 -> `sudo pip install thrift==0.9.3`
+- Cloud9 -> `sudo pip install rsa`
+- Cloud9 -> `sudo pip install requests`
+- Cloud9 -> `sudo pip install wikipedia`
+- Cloud9 -> `sudo pip install beautifulsoup4`
+- Cloud9 -> `sudo pip install datetime`
+- Cloud9 -> `sudo pip install html5lib`
+- Cloud9 -> `sudo pip install curve`
+- Cloud9 -> `sudo pip install urllib3`
+- Cloud9 -> `sudo pip install gTTS`
+- Cloud9 -> `sudo pip install googletrans`
+- Cloud9 -> `sudo pip install beautifulsoup4`
+- Cloud9 -> `sudo pip install datetime`
+- Cloud9 -> `sudo pip install html5lib`
+- Cloud9 -> `sudo pip install curve`
+- Cloud9 -> `sudo pip install Celery`
+- Cloud9 -> `sudo pip install urllib3`
+- Cloud9 -> `sudo pip install goslate`
+- Cloud9 -> `sudo pip install BeautifulSoup`
+- Cloud9 -> `sudo pip install pyowm`
 git clone https://github.com/Selfbotman/Man-18-12-5
 
 BOT PROTECT
